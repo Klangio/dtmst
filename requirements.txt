@@ -1,0 +1,12 @@
+yapf
+mir-eval
+numpy
+tqdm
+torch
+pandas
+note-seq
+scipy
+scikit-learn
+pytorch-ignite
+h5py
+librosa
